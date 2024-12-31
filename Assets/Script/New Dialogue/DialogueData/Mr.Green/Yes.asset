@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f009b52987a7d59428d5473933e11ada, type: 3}
+  m_Name: Yes
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Can you do this for me ?
+  responses:
+  - responseText: Sure
+    dialogueObject: {fileID: 11400000, guid: 20d54c88c3152be48a19dca56c29fca7, type: 2}

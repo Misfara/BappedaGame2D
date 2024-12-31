@@ -1,0 +1,4197 @@
+fileFormatVersion: 2
+guid: 4e2d4925a9db0ca41b5afdd3d1bf50d1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Whole canvas_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 786
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e6fae17aac3ef46bdb1e2a0dd639ed
+      internalID: 1707435191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 785
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c3f3bafde3c56428aafc57498699c7
+      internalID: 270380401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 782
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da74b63e01a81544b87db6c8360dc74b
+      internalID: -1868054443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 787
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a54d7c6f0db60e4c9d515691ec50630
+      internalID: 1369054691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 792
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2075131a40ff41244837cd65c914a973
+      internalID: 375380614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 789
+        width: 72
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f673640c0b30f434588fe89a7efac6a8
+      internalID: 1684098093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 788
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c61a5151a8724944bd61d568aea8493
+      internalID: 1770142938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 772
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aba5e9621e3a94190675879151f4e4
+      internalID: -1559387773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 784
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b99842be6811846a04c2d8c5b57b02
+      internalID: -34836773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_9
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 790
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76ce983320d1bb469ab356e838e6356
+      internalID: -705312265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_10
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 787
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4b75ad0d75d9e4abb2b8c357d69d1b
+      internalID: -96303558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_11
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 777
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808fc4ecb77e03c4a9d47bd2a5f56d63
+      internalID: 285211603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 757
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a77cce7ae6493240b40c7b34e1e9ea1
+      internalID: -491386118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 756
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4406096b467d95a4bb360762bad9ccae
+      internalID: -508304572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 751
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2070dd43a417d84eb96377c1280ef59
+      internalID: 1147293639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 756
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013e2b4aae791154fa475cdd4df7bbb0
+      internalID: 2122759917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 758
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1dd578fa77232418fb3eecc1ba6b3b
+      internalID: 1263479458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 758
+        width: 72
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017fe0d9e2d30c642af64ee209091072
+      internalID: 823646692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_18
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 750
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efff7c3549bf6b947881202ba4055214
+      internalID: 2028158499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_19
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 735
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96676f57ce1accc4780ade689fd34c4a
+      internalID: -1694539133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 746
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13133e5099aca32478e2171c00318bd1
+      internalID: -34024969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_21
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 763
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209d9bbf476a3e0408aee8a382c38f32
+      internalID: -2062862282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_22
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 752
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3334d207396bbd243b2463accb2ab245
+      internalID: -1551670681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_23
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 741
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f355144bd7d5859478f9b85bbb7be69f
+      internalID: -110069498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 728
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895dc19b2ef7a3842b0bcc81b3a65eea
+      internalID: 1090740635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 727
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a60f7def4ce16841af4b2504f4f8917
+      internalID: -1468711243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_26
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 726
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0863941c4bfda0a499cdaefd29eb1e0c
+      internalID: 37374731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 726
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2baabed13becdc469f722916de5c26d
+      internalID: -1332257477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 722
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c383c2d782196c45bdec077669fd895
+      internalID: -1109473352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 716
+        width: 73
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715b967104a297e4b8dd8a39f3293229
+      internalID: 1979299499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_30
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 716
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebee77e956b0144084834c6b46014f2
+      internalID: -799546337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_31
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 719
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dfdb15baa3c2c478565692af25c6a2
+      internalID: -121922142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 723
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fd919456adcd2499d37c58f9ebfa34
+      internalID: 660685050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_33
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 724
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38beb6fbc5bd59f48918985673e4af25
+      internalID: -2124804020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 699
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d69e977aa85f094b8c39a9e864c67ca
+      internalID: 1938517137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 699
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c536ecd62088e2418bf81824accf0e2
+      internalID: -1594972211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_36
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 698
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21709c9035fc79b49ae4624270421dbf
+      internalID: -746030373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_37
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 697
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a17ef397a90184ea0a537ea0578901
+      internalID: 109129658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_38
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 688
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dbad0a7d9ad1f45957a06d1ca41b6b
+      internalID: -1929126870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_39
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 679
+        width: 73
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abe47d8df1a7ae488da9fc3017c4ae6
+      internalID: 735121576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_40
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 678
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc995be8d098d564eafb717ee78467a1
+      internalID: 1851926598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_41
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 697
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fbd67a946da0c48aebbab46e3bb4cc
+      internalID: 665334024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_42
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 693
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de15ce771800665449ff0dbd975bf9e9
+      internalID: -793197387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_43
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 688
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ac262da06c0324384c72bb2550a49f
+      internalID: 2304193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_44
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 694
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363db8178f63c1d4b93df77dfc3620fb
+      internalID: 1341140359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 669
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc97a684180087944b845853bd87eb2f
+      internalID: 814773633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 671
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33fd799ce7572242a7bc47a13d7841e
+      internalID: -1596489493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 675
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a6d2223fed706429801cff90db0e59
+      internalID: -623754767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_48
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 668
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55d5f4cd6efd7141997099da0eda7c6
+      internalID: 1361771541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_49
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 652
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97441a5bbb885c439c8bf801e066067
+      internalID: 693400378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_50
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 662
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfa1aa4531b3d54f8222ab4f071e34e
+      internalID: -117926116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_51
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 660
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdf312c5e4425a46addb512c91b01b6
+      internalID: -253474601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 640
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add0dfaef9b47cf45a31c81ee41831a4
+      internalID: 1989514962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 643
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430f66ae93a5b0d4590aa5cd2298677b
+      internalID: 922601438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 647
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90030be3bca0dc74fb494d1239266684
+      internalID: -1844018474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_55
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 640
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef7b6c010e732e4d97b28b7de6f780b
+      internalID: 1501291033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_56
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 648
+        width: 77
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff2f89b0b3b84e4192155de9337ed84
+      internalID: -1121992421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_57
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 628
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f691e1bee56e24f8e5acfa84487610
+      internalID: -865090600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_58
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 634
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba1a7ed0cad63b41b711af9122c7398
+      internalID: 827012999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_59
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 628
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b845bdd570c2b1a4a9421b671f7ffda9
+      internalID: -905649605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_60
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 614
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d38141b0a188e4dbb7deb064f2c8f6
+      internalID: 1078178121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_61
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 615
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6d2728c6bb2d443844f9a4f096cfc4
+      internalID: -594623163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_62
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 617
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004517a507aeb924db8371715ff652d5
+      internalID: -130646820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_63
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 611
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec2fe5ec7ac91d418b6e323f3272840
+      internalID: -667763903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_64
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 612
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eccd866ca32d948b13eb9391441beb
+      internalID: 933432339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_65
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 620
+        width: 77
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bfe4bd5fb2fea4688a4b84a8150857
+      internalID: -494621522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_66
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 599
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4973280c93b963a4485d3d129dd4ca2e
+      internalID: 1328827808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_67
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 586
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b860ff115206a9140a08d9a86a05992e
+      internalID: -178406468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_68
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 584
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8084f2d7e675e46b0be88856a49119
+      internalID: 51437961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_69
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 598
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56782b7a8cc5bc4c82a3df6a4a43891
+      internalID: 2037131354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_70
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 581
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e70d151683948b4bb339eacb50cd152
+      internalID: -186382495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_71
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 581
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72abd9ae37c71045a2164d021216950
+      internalID: 1461049649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_72
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 576
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d24022e43d6894cb5e7b03a3e51dc0
+      internalID: 1707988294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_73
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 573
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde0423835f399445ac307062aa18a46
+      internalID: 1192796611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_74
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 596
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e3064bab00f5649a845f25f84b045a
+      internalID: 1572281144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_75
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 560
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64de8d4208846a4397e26afc2976d46
+      internalID: 1235443326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_76
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 559
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d4db031049a8d43a911bf2ed653bcd
+      internalID: 1720769286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_77
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 569
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae6df1ae193eb84bb6dbc88a7d52270
+      internalID: -1216423866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_78
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 556
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7a10a0941220549874356cdafa755d
+      internalID: -385557865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_79
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 549
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2799fc3164e61f54595e244b6f0305db
+      internalID: -1137459837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_80
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 533
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa4d3c914354a846a1a94518b769b96
+      internalID: -1320336166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_81
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 563
+        width: 55
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7910758002ec2a74fa8e11170b62e2cb
+      internalID: 1110530192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_82
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 568
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60be5bebe1a824b4cb0258e46e211db5
+      internalID: -549868966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_83
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 532
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5aacb2876079864fb8cbcdc42d61696
+      internalID: 953408148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_84
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 531
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434930ef9673d914c9e323f1bf49cfc0
+      internalID: 522548106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_85
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 543
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb4fbe5380f2b14495ee76837d4ddc0
+      internalID: 1500103660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_86
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 529
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c21b3490b3b8d48a397f8522df10ac
+      internalID: 1356564575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_87
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 521
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba05b6cbaa2801b4eab9a73fcd998af3
+      internalID: -1080153729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_88
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 530
+        width: 55
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e215bab3b0b2fb449b5c54dee3bea978
+      internalID: 876990398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_89
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 538
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9951a8fd88b5f7444af48a8d023c6a76
+      internalID: 446453577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_90
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 500
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433efc9ee3b80604e9a9372be30390ac
+      internalID: 2096481762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_91
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 512
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b13b923271dd09479ad622bec3ee741
+      internalID: -519354876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_92
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 511
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f308f22b6f5b5e49a20b4d1b36cec66
+      internalID: 1103600601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_93
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 494
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac01f4561a0aa2469b6564f9e1edba7
+      internalID: -847705606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_94
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 511
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5a2dabbe9092e41a95818af1af28b1
+      internalID: -170149301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_95
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 495
+        width: 80
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a61cb0f0e33f244bf3d97db4f1e844
+      internalID: 694188040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_96
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 499
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e5d96433babb749a36d9a18ae10501
+      internalID: 463001931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_97
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 507
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88b1874339d36d41bc9a23e3870c52b
+      internalID: 27717658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_98
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 471
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dc255a2ca94aa4dab3b7eb83c911dc
+      internalID: 918864510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_99
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 492
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8992c7b967b1a384091fd6bb1106afd8
+      internalID: 234743743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_100
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 481
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caf8fadba705d543943bc6da4c3e287
+      internalID: -976997988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_101
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 471
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9461da87775a8b64997e902eb9265f22
+      internalID: 1411331068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_102
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 466
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9909e5cb31cbd4691605d35e7143c4
+      internalID: -910628198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_103
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 476
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b8fc31124438a4c864632167aba0ba
+      internalID: -1869885023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_104
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 471
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1431ab8826df9434ba741a7fc974a92c
+      internalID: 460582836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_105
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 458
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463c9bea99037d14686fcebe9afcc89e
+      internalID: -1653899958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_106
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 463
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5e9f70bad29ef4892847c7e48d1872
+      internalID: -1427350201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_107
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 455
+        width: 80
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9024e9fbe6833b49adb390e3d5d4dc3
+      internalID: 263030131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_108
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 463
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90087550cfc372e4c8c3880268306aab
+      internalID: -1202390493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_109
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 442
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c13ed4049d06f64bbdf980aa33348f3
+      internalID: 543225250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_110
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 451
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a219958a513d44bab07ce1be72380f
+      internalID: -1705101828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_111
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 434
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcfb30ef5870374abde76fa7a6a41de
+      internalID: -1572063953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_112
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 433
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5525627f37e7c734a9f1959678982586
+      internalID: 1346390183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_113
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 438
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0d360871ae83141948ac5f7eda1b3d
+      internalID: -430568144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_114
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 431
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802c42fcf2937b74b8cb52fb9a34dae6
+      internalID: -433816583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_115
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 445
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3b66a127f7a144eaa9fb6128358547
+      internalID: -1220324503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_116
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 412
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c3660a12363ed40b82d6cfc2c11480
+      internalID: 1310721005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_117
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 431
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3f90e8f6bfd4047b12d540f7ef7b77
+      internalID: -2131324273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_118
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 406
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bfada08ffaf2d41ada426670cb9317
+      internalID: -50504024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_119
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 409
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d8b1c249af9994d832758ac02c37a0
+      internalID: -1578228153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 404
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8012da878892eb3408bc2a7bfeb0f182
+      internalID: -1096437617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_121
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 395
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0ba65757202e34cbfd8c4a7b7e914a
+      internalID: 1506770890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_122
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 377
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafba54308af4914e9c7241e1df01973
+      internalID: -1540049135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_123
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 381
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509bbc2733afce548a0ffe58214fb46a
+      internalID: 565906280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_124
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 375
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a202adb628f0d48a50aca314876404
+      internalID: 907949899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_125
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 364
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbaa0e6d77e38344af901658b61b41e
+      internalID: -1005224902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_126
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 361
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b937bcce20180344a857ff34bda3d4e2
+      internalID: 1057668684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_127
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 348
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe9a4e0db82ce548840747a769444ee
+      internalID: -1803308277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_128
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 354
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfa254e29973644db0a868a3b734826
+      internalID: -965909994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_129
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 347
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92ae60d540fcd440b6059e011ca0aae
+      internalID: 191916784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_130
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 323
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f387f899040054d82442eae298c767
+      internalID: 856661138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_131
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 332
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6bab125da0b9b4cb9c896f865f39fd
+      internalID: -1845744823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_132
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 319
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905932aaa50560f4eb3616c9887709cd
+      internalID: 2083975985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_133
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 331
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefc40564a8042148bc3fd2b418b7b69
+      internalID: -986453846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_134
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 318
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8951b5277688f2e40ad1009369eeaa3a
+      internalID: -413909823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_135
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 290
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cdf264c6472b3478dd0559df431758
+      internalID: -1222492363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_136
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 308
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18695aeca613cac4a95e9e77118a1f7c
+      internalID: 229244476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_137
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 288
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836198f67139b17468f4517b35e5a05f
+      internalID: 887601938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_138
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 285
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1022098116a4d4c985e0964cddf194
+      internalID: -174103222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_139
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 263
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1878dd2f5814843a8bacbf96ee7ca6
+      internalID: 1998129267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_140
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 202
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457fefb5005b9c94e841e8ce64d79184
+      internalID: -1847121420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_141
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 202
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf18ce19a77ff5a4ea8860795d956e7c
+      internalID: -716924234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_142
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 202
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4732a36c49cc79346b0e8ee815c24966
+      internalID: -680610785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_143
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 202
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3518ecc844ade041a74198e16fbea2c
+      internalID: 1465934723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_144
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 202
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc92fb79c381f1a4b89769cb3189e563
+      internalID: 1435088075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_145
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 202
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b1568e568d47478ac90cbbf241197
+      internalID: 1359818262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_146
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 201
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86285c9a93613e4ca498cb11c43f488
+      internalID: 384013073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_147
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 201
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf373c5ed4dabb469af529f532de60f
+      internalID: 440279278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_148
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 200
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b310a3dfc32e143a06c92c4a3a7877
+      internalID: 2082587581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_149
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8a4c29b20347945acfcbfbf3c24a46
+      internalID: -1189145770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_150
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 201
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf646573d261507499354ae35f37ae11
+      internalID: -925276399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_151
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 201
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e34ca9b07f7b241b9a8ce04a352da2
+      internalID: -208871066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_152
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 202
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d2cbd2a936d424a9cc35642be98c0c
+      internalID: 1850440268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_153
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 203
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005901ac82a2a00498abdab9fa264fc0
+      internalID: -278609502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_154
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 204
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dca360867309e04e85c8c705af5876c
+      internalID: -1116700931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_155
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 204
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4721ca128b951f648a85bec29799118b
+      internalID: 1572438349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_156
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 204
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae296c1aaabff942a1da33a95ba32c5
+      internalID: 1695609095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_157
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 204
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171eadb21515cbc41874f44a567dc086
+      internalID: 1162617916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_158
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 204
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b2390cc4c129b43a7068aa6b83895d
+      internalID: 1564971957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_159
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 202
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac394ef4d2391cb4ba1fdbb8f87104fc
+      internalID: -1798145177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_160
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 177
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9e5653f2cd3874a9948c157c592844
+      internalID: -1782638758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_161
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 177
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29eba315c6019343a9b5442448942bc
+      internalID: -1629190656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_162
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 176
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcc706dd087fde4992bb4b00081e774
+      internalID: -273234389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_163
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 176
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f95b2eef8724340acf0faf37aa37cb
+      internalID: 1399478116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_164
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 176
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742e635ff83c9604d8f0c28221583728
+      internalID: 433842663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_165
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 178
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232e6a9d76696ac4793fe68661c52b4a
+      internalID: 452787600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_166
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 178
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455693ba63775bf42bde1e49c57ce8f7
+      internalID: 778942532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_167
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 175
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b79a244fcd1b0a458c190d060939cb7
+      internalID: -1270339534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_168
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d48a63165a11c459a1bb79a2848ad5
+      internalID: 1202980240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_169
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 175
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39feb43b3abcb84418e48e00ae977a86
+      internalID: 1204972395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_170
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 174
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fc8ac3b6f374a48834bb84988d7a4f
+      internalID: 473419131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_171
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 172
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16212d831e2f3094186fa5a6eaa41288
+      internalID: -2048028969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_172
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 53
+        width: 62
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb6d19537ff38145980521d262f649f
+      internalID: 299695943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_173
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 171
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f06fe9dbbcec0409ac2600c9053cf0
+      internalID: -1337379646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_174
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 171
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465192ae52e2a0f4db4ceea9e61f603b
+      internalID: 1835131182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_175
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 171
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ed939c90fcada4a9a4fa8d82e91a79
+      internalID: -458094748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_176
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 171
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af1af423e716a045ad332b502957ed6
+      internalID: 308117242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_177
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 170
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85be146c7dd893347a080107819af48b
+      internalID: 911070700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_178
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 170
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5267087f81292d8448fec893a721f353
+      internalID: 2059704407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_179
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 144
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845b9d35fd256da48b6717e6f2418f49
+      internalID: 125478712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_180
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 119
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b691b3978f5614d81553a6230597e6
+      internalID: -615804187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_181
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 91
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec163212f2da34742a40bdfc42e90ee2
+      internalID: 1323231199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_182
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 66
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e021fc33d985549aad62d137c5c9ee
+      internalID: -1745143235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_183
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 39
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bb27e15616463448c2a1dcfd28c5bf
+      internalID: 401356060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whole canvas_184
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 14
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492bd9b6e8421ce45affbe284f266e51
+      internalID: -144045169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Whole canvas_0: 1707435191
+      Whole canvas_1: 270380401
+      Whole canvas_10: -96303558
+      Whole canvas_100: -976997988
+      Whole canvas_101: 1411331068
+      Whole canvas_102: -910628198
+      Whole canvas_103: -1869885023
+      Whole canvas_104: 460582836
+      Whole canvas_105: -1653899958
+      Whole canvas_106: -1427350201
+      Whole canvas_107: 263030131
+      Whole canvas_108: -1202390493
+      Whole canvas_109: 543225250
+      Whole canvas_11: 285211603
+      Whole canvas_110: -1705101828
+      Whole canvas_111: -1572063953
+      Whole canvas_112: 1346390183
+      Whole canvas_113: -430568144
+      Whole canvas_114: -433816583
+      Whole canvas_115: -1220324503
+      Whole canvas_116: 1310721005
+      Whole canvas_117: -2131324273
+      Whole canvas_118: -50504024
+      Whole canvas_119: -1578228153
+      Whole canvas_12: -491386118
+      Whole canvas_120: -1096437617
+      Whole canvas_121: 1506770890
+      Whole canvas_122: -1540049135
+      Whole canvas_123: 565906280
+      Whole canvas_124: 907949899
+      Whole canvas_125: -1005224902
+      Whole canvas_126: 1057668684
+      Whole canvas_127: -1803308277
+      Whole canvas_128: -965909994
+      Whole canvas_129: 191916784
+      Whole canvas_13: -508304572
+      Whole canvas_130: 856661138
+      Whole canvas_131: -1845744823
+      Whole canvas_132: 2083975985
+      Whole canvas_133: -986453846
+      Whole canvas_134: -413909823
+      Whole canvas_135: -1222492363
+      Whole canvas_136: 229244476
+      Whole canvas_137: 887601938
+      Whole canvas_138: -174103222
+      Whole canvas_139: 1998129267
+      Whole canvas_14: 1147293639
+      Whole canvas_140: -1847121420
+      Whole canvas_141: -716924234
+      Whole canvas_142: -680610785
+      Whole canvas_143: 1465934723
+      Whole canvas_144: 1435088075
+      Whole canvas_145: 1359818262
+      Whole canvas_146: 384013073
+      Whole canvas_147: 440279278
+      Whole canvas_148: 2082587581
+      Whole canvas_149: -1189145770
+      Whole canvas_15: 2122759917
+      Whole canvas_150: -925276399
+      Whole canvas_151: -208871066
+      Whole canvas_152: 1850440268
+      Whole canvas_153: -278609502
+      Whole canvas_154: -1116700931
+      Whole canvas_155: 1572438349
+      Whole canvas_156: 1695609095
+      Whole canvas_157: 1162617916
+      Whole canvas_158: 1564971957
+      Whole canvas_159: -1798145177
+      Whole canvas_16: 1263479458
+      Whole canvas_160: -1782638758
+      Whole canvas_161: -1629190656
+      Whole canvas_162: -273234389
+      Whole canvas_163: 1399478116
+      Whole canvas_164: 433842663
+      Whole canvas_165: 452787600
+      Whole canvas_166: 778942532
+      Whole canvas_167: -1270339534
+      Whole canvas_168: 1202980240
+      Whole canvas_169: 1204972395
+      Whole canvas_17: 823646692
+      Whole canvas_170: 473419131
+      Whole canvas_171: -2048028969
+      Whole canvas_172: 299695943
+      Whole canvas_173: -1337379646
+      Whole canvas_174: 1835131182
+      Whole canvas_175: -458094748
+      Whole canvas_176: 308117242
+      Whole canvas_177: 911070700
+      Whole canvas_178: 2059704407
+      Whole canvas_179: 125478712
+      Whole canvas_18: 2028158499
+      Whole canvas_180: -615804187
+      Whole canvas_181: 1323231199
+      Whole canvas_182: -1745143235
+      Whole canvas_183: 401356060
+      Whole canvas_184: -144045169
+      Whole canvas_19: -1694539133
+      Whole canvas_2: -1868054443
+      Whole canvas_20: -34024969
+      Whole canvas_21: -2062862282
+      Whole canvas_22: -1551670681
+      Whole canvas_23: -110069498
+      Whole canvas_24: 1090740635
+      Whole canvas_25: -1468711243
+      Whole canvas_26: 37374731
+      Whole canvas_27: -1332257477
+      Whole canvas_28: -1109473352
+      Whole canvas_29: 1979299499
+      Whole canvas_3: 1369054691
+      Whole canvas_30: -799546337
+      Whole canvas_31: -121922142
+      Whole canvas_32: 660685050
+      Whole canvas_33: -2124804020
+      Whole canvas_34: 1938517137
+      Whole canvas_35: -1594972211
+      Whole canvas_36: -746030373
+      Whole canvas_37: 109129658
+      Whole canvas_38: -1929126870
+      Whole canvas_39: 735121576
+      Whole canvas_4: 375380614
+      Whole canvas_40: 1851926598
+      Whole canvas_41: 665334024
+      Whole canvas_42: -793197387
+      Whole canvas_43: 2304193
+      Whole canvas_44: 1341140359
+      Whole canvas_45: 814773633
+      Whole canvas_46: -1596489493
+      Whole canvas_47: -623754767
+      Whole canvas_48: 1361771541
+      Whole canvas_49: 693400378
+      Whole canvas_5: 1684098093
+      Whole canvas_50: -117926116
+      Whole canvas_51: -253474601
+      Whole canvas_52: 1989514962
+      Whole canvas_53: 922601438
+      Whole canvas_54: -1844018474
+      Whole canvas_55: 1501291033
+      Whole canvas_56: -1121992421
+      Whole canvas_57: -865090600
+      Whole canvas_58: 827012999
+      Whole canvas_59: -905649605
+      Whole canvas_6: 1770142938
+      Whole canvas_60: 1078178121
+      Whole canvas_61: -594623163
+      Whole canvas_62: -130646820
+      Whole canvas_63: -667763903
+      Whole canvas_64: 933432339
+      Whole canvas_65: -494621522
+      Whole canvas_66: 1328827808
+      Whole canvas_67: -178406468
+      Whole canvas_68: 51437961
+      Whole canvas_69: 2037131354
+      Whole canvas_7: -1559387773
+      Whole canvas_70: -186382495
+      Whole canvas_71: 1461049649
+      Whole canvas_72: 1707988294
+      Whole canvas_73: 1192796611
+      Whole canvas_74: 1572281144
+      Whole canvas_75: 1235443326
+      Whole canvas_76: 1720769286
+      Whole canvas_77: -1216423866
+      Whole canvas_78: -385557865
+      Whole canvas_79: -1137459837
+      Whole canvas_8: -34836773
+      Whole canvas_80: -1320336166
+      Whole canvas_81: 1110530192
+      Whole canvas_82: -549868966
+      Whole canvas_83: 953408148
+      Whole canvas_84: 522548106
+      Whole canvas_85: 1500103660
+      Whole canvas_86: 1356564575
+      Whole canvas_87: -1080153729
+      Whole canvas_88: 876990398
+      Whole canvas_89: 446453577
+      Whole canvas_9: -705312265
+      Whole canvas_90: 2096481762
+      Whole canvas_91: -519354876
+      Whole canvas_92: 1103600601
+      Whole canvas_93: -847705606
+      Whole canvas_94: -170149301
+      Whole canvas_95: 694188040
+      Whole canvas_96: 463001931
+      Whole canvas_97: 27717658
+      Whole canvas_98: 918864510
+      Whole canvas_99: 234743743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

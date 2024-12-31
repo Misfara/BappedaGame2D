@@ -1,0 +1,1513 @@
+fileFormatVersion: 2
+guid: 0f0951309524f1f4b8df6bc3a08ca26f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 798
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6072aa30418a97a41875325b1c88a203
+      internalID: -698227274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 796
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9288ca6e752759a40b99ec25a407578b
+      internalID: -693712856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 799
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07959a0de1fd99e498dbd12709a93fca
+      internalID: 400120003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 799
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa7c77871cc39140ac0f2b3ac587681
+      internalID: 1486041748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 799
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aa61be781b8ed45803e73d6c982a32
+      internalID: -1856230909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 751
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e08c8789406e5c4e99715e9b74353c9
+      internalID: 2112729754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 772
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413ca1bac43833848b99114cabb0d34a
+      internalID: -1375656342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 711
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd923b3700bd0946853df6794d06d70
+      internalID: -859580257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 709
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16df6dea80883ac4eb45ecc0206a2699
+      internalID: -289050351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 712
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862553ef2ef5af847a4b7bcedebf31f5
+      internalID: 1818706220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 712
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9961c5850d78d7e45ab9d1c8396bcd46
+      internalID: -1748141641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 712
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4f518ce7e9cfe408fb52010db0c659
+      internalID: -834332063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 664
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac2a026117cf16459e295c7f2fb9472
+      internalID: -1816561493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 685
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a07ecd677bf47046b1cb3f1843c84e1
+      internalID: -1418886113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 628
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f14f757f9349684fbdebf830af36c31
+      internalID: -1200989260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 626
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bef503cb9a17944ac131711a3f42a7
+      internalID: 127443461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 629
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1882410f916fabe4faa5bda62221b82c
+      internalID: 90498573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 629
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3133173cc751a864e9ea14a84541e86c
+      internalID: -416406391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 629
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f14406e87d3ba94caf85e672bc273f3
+      internalID: -1945366072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 581
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a789f43ffdc465d458726b1e0e7a680c
+      internalID: -815378820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_20
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 602
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10be60a44f82cd4aa2de08dd0e02d9d
+      internalID: -1114232324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 512
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1f42503460af74482d7d54ba3c095f
+      internalID: -280414088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 510
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2e035e71d5b9c4eae4195e453e4a03
+      internalID: 939668875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 513
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283bb6ffd04f1e441b11b848b926777d
+      internalID: -436894903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 513
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1c801cb75943c4cbc535dbca43da69
+      internalID: -115295135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_25
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 513
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86f1db6f5752e349ade005c0c2dca8b
+      internalID: -1625577418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 465
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd138635c5a277845ac0a07d7b07805a
+      internalID: 1127929965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 486
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214fbc2ff2a7b0b44b8c9b6ec28aa9c6
+      internalID: 73657373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 425
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2dfb0fbfc0b99479e47bc971fb1ac3
+      internalID: -1351006588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 423
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23464fc049729741951edbfa86a47f3
+      internalID: -623577314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 426
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1112bb570fccda343bdefdcacff36992
+      internalID: -280314290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 426
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2df5b11b76b624ba166ee041b77b81
+      internalID: -1595507455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_32
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 426
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6c532c2ea37804380b980e66af7906
+      internalID: -384267656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_33
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 378
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9da294f0dc5c3146bc5ac431170f9eb
+      internalID: 2028497366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_34
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 399
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3edfec5a9e94bd4a820e4b730392180
+      internalID: -1307263667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_35
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 342
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7904f292ba708834e870e80329be539c
+      internalID: -27781596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 340
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5302490983482534a83ccf4da2acec76
+      internalID: 1629628121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 343
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1ee734bcaedeb42b439903ea6eae3b
+      internalID: 519108721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_38
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 343
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a24d01de904554ca92f22eb91a16a4
+      internalID: -1903001710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 343
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146079af6b98a68439378bc36a630d14
+      internalID: 278596762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_40
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 295
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007e8d0aef0c29f478a645d4580d73db
+      internalID: -1995570968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_41
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 316
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de268ae7c5c9894daef1598935808e3
+      internalID: -649765267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 229
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd11106573547684b915b7fc56a26131
+      internalID: -790182362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_43
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 227
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7459cbd7ebe48294db951419864e342e
+      internalID: 6392772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 230
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192d4e06d72219e48915e4d3e6cd0431
+      internalID: 1993860662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_45
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 230
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9b64f300f8e634c907989272bcfeff
+      internalID: -1756902369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_46
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 230
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a0d50c80b868d4d8736406b1ec95b7
+      internalID: 228304973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_47
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 182
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb2aad1d513ea94ab5057e1bd02b1ab
+      internalID: -291101266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_48
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 203
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d22dbe5187cf5e428cebe8ac09ba714
+      internalID: 178944709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 147
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf9d5853fd382449989b7fd6c9c32c8
+      internalID: 368516748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 145
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405c5f24a490bf24fbea1f3e443c4a5d
+      internalID: 964491457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_51
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 148
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f12f2e264fb0f4ba2e5c3f9af3dab3
+      internalID: 1558869386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_52
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 148
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509257ceaf908a64f87ca6b92f1b6f81
+      internalID: 1082987202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_53
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 148
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55868a5d41a67564ab4baac3b5e30317
+      internalID: -1328119004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_54
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 100
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517ad1ae5768542458e448142200e21b
+      internalID: -147808641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_55
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 121
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60db602f6abb72845b315c022722e8e1
+      internalID: -1648503125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_56
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 51
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e0d0db7db02484c83b0e73fe11eb84
+      internalID: 1238885528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_57
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 49
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e67c03f7707df408e87e0168b5bff5
+      internalID: 1567875914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_58
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 52
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1925fe8221dab44a0039475a81f2f2
+      internalID: -480975158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_59
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 52
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8846928a24a417d4c9e50ce98d790213
+      internalID: -821342466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_60
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 52
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23129da064a63a409a80d77b9868f3c
+      internalID: -467092628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_61
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 4
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166a1834328d6914fa813744f36e5e6a
+      internalID: -1415778246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YELL-ORG-RED-PLANTER_62
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 25
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0e4c12be62a1844b18b4ea62746a06
+      internalID: -270076431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      YELL-ORG-RED-PLANTER_0: -698227274
+      YELL-ORG-RED-PLANTER_1: -693712856
+      YELL-ORG-RED-PLANTER_10: -1748141641
+      YELL-ORG-RED-PLANTER_11: -834332063
+      YELL-ORG-RED-PLANTER_12: -1816561493
+      YELL-ORG-RED-PLANTER_13: -1418886113
+      YELL-ORG-RED-PLANTER_14: -1200989260
+      YELL-ORG-RED-PLANTER_15: 127443461
+      YELL-ORG-RED-PLANTER_16: 90498573
+      YELL-ORG-RED-PLANTER_17: -416406391
+      YELL-ORG-RED-PLANTER_18: -1945366072
+      YELL-ORG-RED-PLANTER_19: -815378820
+      YELL-ORG-RED-PLANTER_2: 400120003
+      YELL-ORG-RED-PLANTER_20: -1114232324
+      YELL-ORG-RED-PLANTER_21: -280414088
+      YELL-ORG-RED-PLANTER_22: 939668875
+      YELL-ORG-RED-PLANTER_23: -436894903
+      YELL-ORG-RED-PLANTER_24: -115295135
+      YELL-ORG-RED-PLANTER_25: -1625577418
+      YELL-ORG-RED-PLANTER_26: 1127929965
+      YELL-ORG-RED-PLANTER_27: 73657373
+      YELL-ORG-RED-PLANTER_28: -1351006588
+      YELL-ORG-RED-PLANTER_29: -623577314
+      YELL-ORG-RED-PLANTER_3: 1486041748
+      YELL-ORG-RED-PLANTER_30: -280314290
+      YELL-ORG-RED-PLANTER_31: -1595507455
+      YELL-ORG-RED-PLANTER_32: -384267656
+      YELL-ORG-RED-PLANTER_33: 2028497366
+      YELL-ORG-RED-PLANTER_34: -1307263667
+      YELL-ORG-RED-PLANTER_35: -27781596
+      YELL-ORG-RED-PLANTER_36: 1629628121
+      YELL-ORG-RED-PLANTER_37: 519108721
+      YELL-ORG-RED-PLANTER_38: -1903001710
+      YELL-ORG-RED-PLANTER_39: 278596762
+      YELL-ORG-RED-PLANTER_4: -1856230909
+      YELL-ORG-RED-PLANTER_40: -1995570968
+      YELL-ORG-RED-PLANTER_41: -649765267
+      YELL-ORG-RED-PLANTER_42: -790182362
+      YELL-ORG-RED-PLANTER_43: 6392772
+      YELL-ORG-RED-PLANTER_44: 1993860662
+      YELL-ORG-RED-PLANTER_45: -1756902369
+      YELL-ORG-RED-PLANTER_46: 228304973
+      YELL-ORG-RED-PLANTER_47: -291101266
+      YELL-ORG-RED-PLANTER_48: 178944709
+      YELL-ORG-RED-PLANTER_49: 368516748
+      YELL-ORG-RED-PLANTER_5: 2112729754
+      YELL-ORG-RED-PLANTER_50: 964491457
+      YELL-ORG-RED-PLANTER_51: 1558869386
+      YELL-ORG-RED-PLANTER_52: 1082987202
+      YELL-ORG-RED-PLANTER_53: -1328119004
+      YELL-ORG-RED-PLANTER_54: -147808641
+      YELL-ORG-RED-PLANTER_55: -1648503125
+      YELL-ORG-RED-PLANTER_56: 1238885528
+      YELL-ORG-RED-PLANTER_57: 1567875914
+      YELL-ORG-RED-PLANTER_58: -480975158
+      YELL-ORG-RED-PLANTER_59: -821342466
+      YELL-ORG-RED-PLANTER_6: -1375656342
+      YELL-ORG-RED-PLANTER_60: -467092628
+      YELL-ORG-RED-PLANTER_61: -1415778246
+      YELL-ORG-RED-PLANTER_62: -270076431
+      YELL-ORG-RED-PLANTER_7: -859580257
+      YELL-ORG-RED-PLANTER_8: -289050351
+      YELL-ORG-RED-PLANTER_9: 1818706220
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

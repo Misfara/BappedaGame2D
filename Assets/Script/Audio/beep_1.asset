@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4df2e47493b436d4cb8be4aabf786c6f, type: 3}
+  m_Name: beep_1
+  m_EditorClassIdentifier: 
+  id: beep1
+  dialogueTypingSoundClips:
+  - {fileID: 8300000, guid: cf6b635c0e8ac5e498e00670eae8d611, type: 3}
+  frequencyLevel: 4
+  maxPitch: 0.1
+  minPitch: 0.75
+  stopAudioSource: 1
+  volume: 0.3

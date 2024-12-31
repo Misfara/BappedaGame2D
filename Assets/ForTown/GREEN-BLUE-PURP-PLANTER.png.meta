@@ -1,0 +1,1513 @@
+fileFormatVersion: 2
+guid: 3994919a70540654386b32aeba9f71f7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 796
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864d1f5e5a0ab434f808fea55741dd62
+      internalID: 994880827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 794
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213dd7af055eac14c8fb1093344c9c50
+      internalID: 1279199653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 797
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2515f5464787a384690e232f46e87033
+      internalID: -498797708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 797
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ddb1c819900f940928dbc09a73b0f2
+      internalID: 216272544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 797
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77ebd30df5d6eb458b65dc8cba333fe
+      internalID: 116071716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 749
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66626eacfeaae26408b903f0c3257a4f
+      internalID: 849511893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 770
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4c0d28223fdd749b39a38ddfc9bf55
+      internalID: 2142942336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 709
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55aecce984217dd45afaad5f8845ecaa
+      internalID: -557083928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 707
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac972374aebff94599187b1892d2e1c
+      internalID: -1684129681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 710
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ee035dadf891543a7efb500c4b133d
+      internalID: 1162943450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 710
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6fb606eb9d4d343bc651dd741a9763
+      internalID: -647341606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 710
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fd5d63201964843b85f15fdbdb78b7
+      internalID: -67652946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 662
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a767829a11de5e4cbfa6084c83a9816
+      internalID: 1574507858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 683
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94539d2b03190034fbff00502f4f6327
+      internalID: -1090960236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 626
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddf171d3e5d3744f9fe987ef4d47845
+      internalID: 303867472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 624
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef946a2fbc95ce4db2c60c2340989b5
+      internalID: -1911113181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 627
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cbc597733f0f44291c5fff47f95454
+      internalID: -879377555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 627
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828ee0040e063394c872247afc87bce6
+      internalID: 1610419131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 627
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10cf6ded6bb1c445908416b65ed51fa
+      internalID: 678444161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 579
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b4129c0bc07644e8a71a671369cacf
+      internalID: 1694989583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_20
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 600
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385532a9ca48e4b4987657f068d1d889
+      internalID: 369511624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 512
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3aea2a9536b694b9339a9b997dfe76
+      internalID: -1410257398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 510
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341b57cb01b0f504eb0592dfe6c991e4
+      internalID: 809467615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 513
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381a658d5445e9e43a79eb4137c288bc
+      internalID: -219295114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 513
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2239d84a4bdb7942bcc46a222157329
+      internalID: -354380700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_25
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 513
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c945153c5928b47965ef0d876e895b
+      internalID: 1868258475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 465
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a68929205f2f314895abff3a3e13afd
+      internalID: 830285618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 486
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5de78fa0a3badc4792cb074754811a9
+      internalID: -1680561490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 425
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e5d501faa8b20439fc60df6876bac7
+      internalID: 1587965069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 423
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9565d196e24cb2f459afbce0245506b3
+      internalID: 1534286000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 426
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3404f115880ca4e9f8c8bdf3020ab8
+      internalID: -921171141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 426
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107bedb3d345c6c46b79cc174edef1a2
+      internalID: 856117866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_32
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 426
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3559f696d18acb740a738a644a45fa13
+      internalID: 720336574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_33
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 378
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebf49710a699614fbe31db59e199dfc
+      internalID: 913674141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_34
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 399
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a3152699232bc4bba520a41fd28c0b
+      internalID: 918013461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_35
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 342
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa182003a796c6c408f63b060194aeeb
+      internalID: 1203390993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 340
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44148ea45ca94b74aa69696035ebb0a7
+      internalID: -1969456328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 343
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b356153615b6ef1408c3b34d0946dd08
+      internalID: -2130893490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_38
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 343
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5478adbe11e2f47850bb5b61a01107
+      internalID: -60821393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 343
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc121dd76266b41468e56fd8cba336eb
+      internalID: -1084426869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_40
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 295
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d5e86b4e574e64cb4baba0c971ec3e
+      internalID: 1763394005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_41
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 316
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09d695ac54a846458dd5d56894396bd
+      internalID: 1693748223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 229
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad3020b8ab380b4393e6892e6430675
+      internalID: -68512768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_43
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 227
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c157cd2d878d60478b14329a2c637ba
+      internalID: 361282037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 230
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5a55b018581314c836ad74310f55ed
+      internalID: 1890744746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_45
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 230
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679ae196f3802584b899b40c4328c7a5
+      internalID: 189055034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_46
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 230
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7303bf5b25a88b94baca27b54a11bb15
+      internalID: 1249016370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_47
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 182
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781cf5fc47a82b24991698aa33da6143
+      internalID: -465655039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_48
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 203
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4466530c566bc6443900970ff069bdf3
+      internalID: 1380830329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 147
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e899b9e5b0d98514b9a4207dcd37c3a3
+      internalID: -116764474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 145
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0914942bdef01429d00500923a3bfa
+      internalID: 2075200059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_51
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 148
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9d45912bc39a1439da7091a520d759
+      internalID: -888204134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_52
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 148
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a9ef056776f974e863a44983303f19
+      internalID: -633914337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_53
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 148
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9142cb4e7f3cbfa4ba7aa59e765179f9
+      internalID: 907399498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_54
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 100
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc346d5ff6e932844869a91b6922b187
+      internalID: -607324914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_55
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 121
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ef950b4435de54fac20fffda8b331b
+      internalID: -73116895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_56
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 51
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68629fc10c2ce08478750ee90229c282
+      internalID: 1438518493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_57
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 49
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db65f553e2ed5dc41a1aeec0ece1d3a2
+      internalID: 303649580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_58
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 52
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6191b305ad3fa46a3d9989752091b0
+      internalID: 1113728419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_59
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 52
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ce28eb5beedb044a3cf179475f3846
+      internalID: 830545529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_60
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 52
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610367f611ad72c45aa3209226285abe
+      internalID: -1933957172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_61
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 4
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa77a6dd82a9990479e70247c8df5f3b
+      internalID: 746007924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREEN-BLUE-PURP-PLANTER_62
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 25
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14922661fea211a428345dbfea2214ba
+      internalID: -1269728138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GREEN-BLUE-PURP-PLANTER_0: 994880827
+      GREEN-BLUE-PURP-PLANTER_1: 1279199653
+      GREEN-BLUE-PURP-PLANTER_10: -647341606
+      GREEN-BLUE-PURP-PLANTER_11: -67652946
+      GREEN-BLUE-PURP-PLANTER_12: 1574507858
+      GREEN-BLUE-PURP-PLANTER_13: -1090960236
+      GREEN-BLUE-PURP-PLANTER_14: 303867472
+      GREEN-BLUE-PURP-PLANTER_15: -1911113181
+      GREEN-BLUE-PURP-PLANTER_16: -879377555
+      GREEN-BLUE-PURP-PLANTER_17: 1610419131
+      GREEN-BLUE-PURP-PLANTER_18: 678444161
+      GREEN-BLUE-PURP-PLANTER_19: 1694989583
+      GREEN-BLUE-PURP-PLANTER_2: -498797708
+      GREEN-BLUE-PURP-PLANTER_20: 369511624
+      GREEN-BLUE-PURP-PLANTER_21: -1410257398
+      GREEN-BLUE-PURP-PLANTER_22: 809467615
+      GREEN-BLUE-PURP-PLANTER_23: -219295114
+      GREEN-BLUE-PURP-PLANTER_24: -354380700
+      GREEN-BLUE-PURP-PLANTER_25: 1868258475
+      GREEN-BLUE-PURP-PLANTER_26: 830285618
+      GREEN-BLUE-PURP-PLANTER_27: -1680561490
+      GREEN-BLUE-PURP-PLANTER_28: 1587965069
+      GREEN-BLUE-PURP-PLANTER_29: 1534286000
+      GREEN-BLUE-PURP-PLANTER_3: 216272544
+      GREEN-BLUE-PURP-PLANTER_30: -921171141
+      GREEN-BLUE-PURP-PLANTER_31: 856117866
+      GREEN-BLUE-PURP-PLANTER_32: 720336574
+      GREEN-BLUE-PURP-PLANTER_33: 913674141
+      GREEN-BLUE-PURP-PLANTER_34: 918013461
+      GREEN-BLUE-PURP-PLANTER_35: 1203390993
+      GREEN-BLUE-PURP-PLANTER_36: -1969456328
+      GREEN-BLUE-PURP-PLANTER_37: -2130893490
+      GREEN-BLUE-PURP-PLANTER_38: -60821393
+      GREEN-BLUE-PURP-PLANTER_39: -1084426869
+      GREEN-BLUE-PURP-PLANTER_4: 116071716
+      GREEN-BLUE-PURP-PLANTER_40: 1763394005
+      GREEN-BLUE-PURP-PLANTER_41: 1693748223
+      GREEN-BLUE-PURP-PLANTER_42: -68512768
+      GREEN-BLUE-PURP-PLANTER_43: 361282037
+      GREEN-BLUE-PURP-PLANTER_44: 1890744746
+      GREEN-BLUE-PURP-PLANTER_45: 189055034
+      GREEN-BLUE-PURP-PLANTER_46: 1249016370
+      GREEN-BLUE-PURP-PLANTER_47: -465655039
+      GREEN-BLUE-PURP-PLANTER_48: 1380830329
+      GREEN-BLUE-PURP-PLANTER_49: -116764474
+      GREEN-BLUE-PURP-PLANTER_5: 849511893
+      GREEN-BLUE-PURP-PLANTER_50: 2075200059
+      GREEN-BLUE-PURP-PLANTER_51: -888204134
+      GREEN-BLUE-PURP-PLANTER_52: -633914337
+      GREEN-BLUE-PURP-PLANTER_53: 907399498
+      GREEN-BLUE-PURP-PLANTER_54: -607324914
+      GREEN-BLUE-PURP-PLANTER_55: -73116895
+      GREEN-BLUE-PURP-PLANTER_56: 1438518493
+      GREEN-BLUE-PURP-PLANTER_57: 303649580
+      GREEN-BLUE-PURP-PLANTER_58: 1113728419
+      GREEN-BLUE-PURP-PLANTER_59: 830545529
+      GREEN-BLUE-PURP-PLANTER_6: 2142942336
+      GREEN-BLUE-PURP-PLANTER_60: -1933957172
+      GREEN-BLUE-PURP-PLANTER_61: 746007924
+      GREEN-BLUE-PURP-PLANTER_62: -1269728138
+      GREEN-BLUE-PURP-PLANTER_7: -557083928
+      GREEN-BLUE-PURP-PLANTER_8: -1684129681
+      GREEN-BLUE-PURP-PLANTER_9: 1162943450
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

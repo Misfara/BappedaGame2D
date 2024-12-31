@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f009b52987a7d59428d5473933e11ada, type: 3}
+  m_Name: Dialogue1
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Aduh kayanya aku harus izin lagi deh.. . Hey apakah kamu bisa memberi tahu temanku
+    kalau aku tak bisa masuk kerja ??
+  responses:
+  - responseText: Bisa saja
+    dialogueObject: {fileID: 11400000, guid: 2f5743055479c23479c37df5e0775f2d, type: 2}
+  - responseText: Gamau
+    dialogueObject: {fileID: 0}
